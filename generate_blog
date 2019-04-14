@@ -1,0 +1,184 @@
+#!/bin/bash
+script_start=`date +%s`
+
+#file name (sans extension)
+blog_file_name="index"
+
+#for page title and h1 heading
+blog_title="Home"
+
+#extension of input files
+markup_ext="md"
+
+#The markup processor we are using
+markup_language="markdown"
+
+#How many entries should be in the feed
+feed_article_limit=10
+
+#author's name
+author="Jesse Spillane"
+
+#rss feed title name
+feed_title="Blog of $author"
+feed_subtitle="An exploration of something"
+
+#url (include ending forward slash)
+url="http://www.jessespillane.com/"
+
+#file name of the feed for syndication
+feed_file_name="atom.xml"
+
+#set time zone of your dates.
+timezone_str="-05:00"
+
+#remove the old html files/feed files
+rm -f *.html
+rm -f *.xml
+
+#keep track of how many blogs we've come accross
+blog_entry_count=0
+
+feed_name="atom.xml"
+
+post_heading="Posts:"
+
+# initialize feed
+cur_date=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
+
+echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>
+
+<feed xmlns=\"http://www.w3.org/2005/Atom\">
+
+	<title>$feed_title</title>
+	<subtitle>$feed_subtitle</subtitle>
+	<link href=\"${url}${feed_file_name}\" rel=\"self\" />
+	<id>$url</id>
+	<updated>$cur_date</updated>
+" > "$feed_name"
+
+header=$(cat header)
+footer=$(cat footer)
+
+#start blog page:
+echo -e "$header" > "${blog_file_name}.html"
+echo "<h1>$blog_title</h1><h2>$post_heading</h2>" >> "${blog_file_name}.html"
+
+blog_month_year=""
+
+#iterate over files in reverse order (for the sake of the blog ordering)
+files=(*."${markup_ext}")
+for ((i=${#files[@]}-1; i>=0; i--)); do
+    
+    markdown_file="${files[$i]}"
+    html=$( pandoc -f "$markup_language" "$markdown_file" )
+
+    #get first 10 characters of file name to see if it matches a date format
+    date="${markdown_file:0:10}"
+    
+    is_blog=0
+
+    #if the file format matches YYYY-MM-DD<whatever>.md, it is considered a blog
+    if [[ "$date" =~ ^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[1-2][0-9]|3[0-1])$ ]]; then
+        is_blog=1
+        blog_entry_count=$((blog_entry_count+1))
+    fi
+    
+    #get title from the first heading from markdown and strip the '#'
+    #and leading whitespace
+    title=$(grep -m1 "#" "$markdown_file")
+    title=$(echo ${title#\#} | sed -e 's/^[ \t]*//')
+
+    #If title doesn't exist, that is bad, so exit
+    if [[ $title == "" ]]; then
+        echo "ERROR: File $markdown_file has no title"
+        exit 1
+    fi
+
+    filename="${markdown_file%.${markup_ext}}.html"
+    
+    #write the html into the template
+    echo -e "$header" >> "$filename"
+    echo "$html" >> "$filename"
+    echo -e "$footer" >> "$filename"
+
+    
+    #replace title in template
+    sed -i s/{{\$title}}/"$title"/ "$filename"
+
+    #tidy up the output html to be nice looking
+    tidy --indent yes --indent-spaces 2 --quiet yes --show-body-only auto --show-errors 0 --wrap 0 -m "$filename"
+    
+    #add to the blog list
+    if [ $is_blog -eq 1 ]; then
+
+        year="${markdown_file:0:4}"
+        month="${markdown_file:5:2}"
+
+        month_year_str=$(date -d "$date" "+%B %Y")
+
+        if [[ "$month_year_str" != "$prev_month_year_str" ]]; then
+            if [[ "$prev_month_year_str" != "" ]]; then
+                echo "</table>" >> "${blog_file_name}.html"
+            fi
+            echo "<h3>$month_year_str</h3><table style=\"width: 100%\">" >> "${blog_file_name}.html"
+        fi
+        
+        prev_month_year_str="$month_year_str"
+
+        formatted_date=$(date -d "$date" "+%B %d %Y")
+
+
+        encoded_filename=$(echo "$filename" |
+                               sed -e 's/%/%25/g; s/ /%20/g; s/:/%3B/g; s/\//%2F/g; s/#/%23/g; s/?/%3F/g; s/&/%24/g; s/@/%40/g; s/+/%2B/g;')
+        
+        #add to blog list
+        echo "<tr><td style=\"width: 130px\">$formatted_date</td><td><a href=\"$encoded_filename\">$title</a></td></tr>" >> "${blog_file_name}.html"
+
+
+        if [ $blog_entry_count -le $feed_article_limit ]; then
+            escaped_html=$(echo "$html"  | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g')
+            echo "
+	<entry>
+		<title>$title</title>
+		<link href=\"${url}${encoded_filename}\" />
+		<link rel=\"alternate\" type=\"text/html\" href=\"${url}${encoded_filename}\"/>
+		<id>${url}${encoded_filename}</id>
+		<updated>${date}T00:00:00$timezone_str</updated>
+		<content type=\"html\">
+ $escaped_html
+		</content>
+		<author>
+			<name>$author</name>
+		</author>
+	</entry>" >> "$feed_name"
+
+        fi
+    fi
+    echo "Wrote: $filename"
+done
+
+#generate the blog page
+echo "</table>" >> "${blog_file_name}.html"
+echo -e "$footer" >> "${blog_file_name}.html"
+
+#replace the title in the blog page
+sed -i s/{{\$title}}/"$blog_title"/ "${blog_file_name}.html"
+
+#tidy up the html
+tidy --indent yes --indent-spaces 2 --quiet yes --show-body-only auto --show-errors 0 --wrap 0 -m "${blog_file_name}.html"
+
+echo "Wrote: $blog_file_name"
+
+
+
+echo "
+</feed>" >> "$feed_name"
+
+echo "Wrote: $feed_name"
+
+
+script_end=`date +%s`
+
+runtime=$((script_end-script_start))
+echo "Script ran in $runtime seconds"

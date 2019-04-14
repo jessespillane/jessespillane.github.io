@@ -1,0 +1,29 @@
+#!/bin/bash
+
+rm -f *.html
+
+for markdown_file in *.md; do
+    html=$( pandoc -f markdown "$markdown_file" )
+
+    #get title from the first heading from markdown and strip the '#'
+    #and leading whitespace
+    title=$(grep -m1 "#" "$markdown_file")
+    title=$(echo ${title#\#} | sed -e 's/^[ \t]*//')
+
+    #If title doesn't exist, that is bad, so exit
+    if [[ $title == "" ]]; then
+        echo "ERROR: File $markdown_file has no title"
+        exit 1
+    fi
+
+    filename="${markdown_file%.md}.html"
+    
+    cat header >> "$filename"
+    echo "$html" >> "$filename"
+    cat footer >> "$filename"
+    
+    # #replace title in template
+    sed -i s/{{\$title}}/"$title"/g "$filename"
+    
+    tidy --indent yes --indent-spaces 2 --quiet yes --show-body-only auto --show-errors 0 --wrap 0 -m "$filename"
+done

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+       {{$title}}
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    
+    <link href="style.css" rel="stylesheet" >
+<!--    <link rel="alternate" type="application/atom+xml" href="http://www.jessespillane.com/atom.xml" />-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="top">
+        <div class="icontext">
+          <div class="profile-wrap inline-block">
+            <div class="profile inline-block rainbow" style="background-image: url(images/template/me.jpg);"></div>
+          </div>
+          <div class="title-text inline-block">Jesse Spillane</div>
+          <div class="links inline-block">
+            <img class="hamburger" src="images/template/hamburger-top.jpg" />
+            <ul class="site-menu">
+              <li class="site-menu"><a href="index.html" class="site-menu rainbow">Home</a>
+              <li class="site-menu"><a href="music.html" class="site-menu rainbow">Music</a>
+            </ul>
+            <img class="hamburger" src="images/template/hamburger-bottom.jpg" />
+
+          </div>          
+        </div>
+      </div>
+      
+      <div class="main">

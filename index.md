@@ -11,11 +11,10 @@ content I've created.
 ![](images/misc/warrig.jpg)
 
 ## Status 
-**04/14/2019 -> ??**
+**04/14/2019**
 
 - Working on new music for unnamed album. 1 song done
-- Creating simple 2d game engine (chaosquilt). Currently working on
-  embedding a scripting language
+- Creating simple 2d game engine (chaosquilt). 
 
 ## Updates
 

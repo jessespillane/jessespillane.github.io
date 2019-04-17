@@ -22,7 +22,7 @@ Download
   
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-MobileSongsVol1/JesseSpillane-MobileSongsVol1_vbr.m3u)
-  
+
 Date
   : March 2019
   
@@ -265,7 +265,8 @@ License
   : [cc-by](https://creativecommons.org/licenses/by/4.0/)
 
 Description
-  : n/A
+  : microphone-comparison-freight-train-wav sample by mab
+  www.freesound.org/samplesViewSingle.php?id=22953
 
 </div>
 <div style="clear: both;"></div>
@@ -298,8 +299,7 @@ License
 
 Description
 
-  : microphone-comparison-freight-train-wav sample by mab
-  www.freesound.org/samplesViewSingle.php?id=22953
+  : Debut EP by Eighth Whale. Recorded in a basement if that wasn't clear.
 
 </div>
 <div style="clear: both;"></div>

@@ -18,7 +18,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip), [bandcamp](https://jessespillane.bandcamp.com/album/the-laundry-cycle), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1)
+  : [flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip), [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-1), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1)
   
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-MobileSongsVol1/JesseSpillane-MobileSongsVol1_vbr.m3u)

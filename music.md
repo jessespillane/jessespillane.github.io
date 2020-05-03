@@ -18,7 +18,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/mobilesongsvol2/formats=24BIT%20FLAC&file=/mobilesongsvol2.zip), [mp3](https://archive.org/compress/mobilesongsvol2/formats=VBR%20MP3&file=/mobilesongsvol2.zip), [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-2), [archive.org](https://archive.org/details/mobilesongsvol2)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-2), [archive.org](https://archive.org/details/mobilesongsvol2) ( [flac](https://archive.org/compress/mobilesongsvol2/formats=24BIT%20FLAC&file=/mobilesongsvol2.zip), [mp3](https://archive.org/compress/mobilesongsvol2/formats=VBR%20MP3&file=/mobilesongsvol2.zip))
   
 Stream
   : [m3u](https://archive.org/download/mobilesongsvol2/mobilesongsvol2_vbr.m3u)
@@ -52,7 +52,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip), [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-1), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-1), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1) ([flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip))
   
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-MobileSongsVol1/JesseSpillane-MobileSongsVol1_vbr.m3u)
@@ -87,7 +87,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=FLAC&file=/JesseSpillane-TheLaundryCycle.zip), [mp3](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=VBR%20MP3&file=/JesseSpillane-TheLaundryCycle.zip), [ogg](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=OGG%20VORBIS&file=/JesseSpillane-TheLaundryCycle.zip), [bandcamp](https://jessespillane.bandcamp.com/album/the-laundry-cycle), [archive.org](https://archive.org/details/JesseSpillane-TheLaundryCycle)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-laundry-cycle), [archive.org](https://archive.org/details/JesseSpillane-TheLaundryCycle) ([flac](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=FLAC&file=/JesseSpillane-TheLaundryCycle.zip), [mp3](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=VBR%20MP3&file=/JesseSpillane-TheLaundryCycle.zip), [ogg](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=OGG%20VORBIS&file=/JesseSpillane-TheLaundryCycle.zip))
 
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-TheLaundryCycle/JesseSpillane-TheLaundryCycle_vbr.m3u)
@@ -122,7 +122,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=FLAC&file=/JesseSpillane-TheMaddeningParade.zip), [mp3](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=VBR%20MP3&file=/JesseSpillane-TheMaddeningParade.zip), [ogg](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=OGG%20VORBIS&file=/JesseSpillane-TheMaddeningParade.zip), [bandcamp](https://jessespillane.bandcamp.com/album/the-maddening-parade), [archive.org](https://archive.org/details/JesseSpillane-TheMaddeningParade)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-maddening-parade), [archive.org](https://archive.org/details/JesseSpillane-TheMaddeningParade) ([flac](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=FLAC&file=/JesseSpillane-TheMaddeningParade.zip), [mp3](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=VBR%20MP3&file=/JesseSpillane-TheMaddeningParade.zip), [ogg](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=OGG%20VORBIS&file=/JesseSpillane-TheMaddeningParade.zip))
   
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-TheMaddeningParade/JesseSpillane-TheMaddeningParade_vbr.m3u)
@@ -160,7 +160,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/SkyShip/formats=FLAC&file=/SkyShip.zip), [mp3](https://archive.org/compress/SkyShip/formats=VBR%20MP3&file=/SkyShip.zip), [ogg](https://archive.org/compress/SkyShip/formats=OGG%20VORBIS&file=/SkyShip.zip), [bandcamp](https://jessespillane.bandcamp.com/album/sky-ship), [archive.org](https://archive.org/details/SkyShip)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/sky-ship), [archive.org](https://archive.org/details/SkyShip)([flac](https://archive.org/compress/SkyShip/formats=FLAC&file=/SkyShip.zip), [mp3](https://archive.org/compress/SkyShip/formats=VBR%20MP3&file=/SkyShip.zip), [ogg](https://archive.org/compress/SkyShip/formats=OGG%20VORBIS&file=/SkyShip.zip))
   
 Stream
   : [m3u](https://archive.org/download/SkyShip/SkyShip_vbr.m3u)
@@ -287,7 +287,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=FLAC&file=/JesseSpillane-ArtOfPresentation.zip), [mp3](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=VBR%20MP3&file=/JesseSpillane-ArtOfPresentation.zip), [ogg](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=OGG%20VORBIS&file=/JesseSpillane-ArtOfPresentation.zip), [bandcamp](https://jessespillane.bandcamp.com/album/art-of-presentation), [archive.org](https://archive.org/details/JesseSpillane-ArtOfPresentation)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/art-of-presentation), [archive.org](https://archive.org/details/JesseSpillane-ArtOfPresentation) ([flac](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=FLAC&file=/JesseSpillane-ArtOfPresentation.zip), [mp3](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=VBR%20MP3&file=/JesseSpillane-ArtOfPresentation.zip), [ogg](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=OGG%20VORBIS&file=/JesseSpillane-ArtOfPresentation.zip))
 
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-ArtOfPresentation/JesseSpillane-ArtOfPresentation_vbr.m3u)
@@ -356,7 +356,7 @@ Artist
   : Jesse Spillane
   
 Download
-  : [flac](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=FLAC&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [mp3](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=VBR%20MP3&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [ogg](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=OGG%20VORBIS&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [bandcamp](https://jessespillane.bandcamp.com/album/descent-of-the-goober-monster), [archive.org](https://archive.org/details/JesseSpillane-DescentOfTheGooberMonster)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/descent-of-the-goober-monster), [archive.org](https://archive.org/details/JesseSpillane-DescentOfTheGooberMonster)([flac](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=FLAC&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [mp3](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=VBR%20MP3&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [ogg](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=OGG%20VORBIS&file=/JesseSpillane-DescentOfTheGooberMonster.zip))
 
 Stream
   : [m3u](https://archive.org/download/JesseSpillane-DescentOfTheGooberMonster/JesseSpillane-DescentOfTheGooberMonster_vbr.m3u)

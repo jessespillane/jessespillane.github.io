@@ -6,6 +6,40 @@
 
 <div class="album-art">
 
+![](images/music/mobilesongsvol2cover-300x300.jpg)
+
+</div>
+<div class="album-description">
+
+Title
+  : Mobile Songs Vol 2
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [flac](https://archive.org/compress/mobilesongsvol2/formats=24BIT%20FLAC&file=/mobilesongsvol2.zip), [mp3](https://archive.org/compress/mobilesongsvol2/formats=VBR%20MP3&file=/mobilesongsvol2.zip), [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-2), [archive.org](https://archive.org/details/mobilesongsvol2)
+  
+Stream
+  : [m3u](https://archive.org/download/mobilesongsvol2/mobilesongsvol2_vbr.m3u)
+
+Date
+  : Sept 2019
+  
+License
+  : [cc-by](https://creativecommons.org/licenses/by/4.0/)
+
+Description
+  : Songs made on my cellphone with Caustic 3
+
+</div>
+<div style="clear: both;"></div>
+
+
+### Mobile Songs Vol 1 - Jesse Spillane
+
+<div class="album-art">
+
 ![](images/music/mobilesongsvol1cover-300x300.jpg)
 
 </div>

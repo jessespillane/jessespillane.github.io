@@ -11,12 +11,15 @@ content I've created.
 ![](images/misc/warrig.jpg)
 
 ## Status 
-**04/14/2019**
+**05/03/2020**
 
-- Working on new music for unnamed album. 1 song done
+- Working on new music for unnamed album.
 - Creating simple 2d game engine (chaosquilt). 
 
 ## Updates
 
+- **05/03/2020** - Going back to a simple website. Check out my
+  [Battles
+  remix](https://metapop.com/jesse-spillane/tracks/echoey-depths-battles-remix/128798).
 - **04/14/2019** - New site
 - **03/12/2019** - New album: Mobile Songs Vol 1 released

@@ -2,7 +2,7 @@
 
 ## Discography
 
-### Mobile Songs Vol 1 - Jesse Spillane
+### Mobile Songs Vol 2 - Jesse Spillane
 
 <div class="album-art">
 

@@ -44,8 +44,8 @@ You also need to place something like the following in your header:
 - You can tell browsers where the atom feed is (if your browser is set
   up to show that feed icon when a site provides it)
 
-All md files are expected to be in the root folder. Html files are
-generated in that folder as well.
+All md files are expected to be in the folder the script is run
+from. Html files are generated in that folder as well.
 
 Note: running in windows with git bash seems to be very slow.
 

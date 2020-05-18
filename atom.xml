@@ -6,7 +6,7 @@
 	<subtitle>An exploration of something or other</subtitle>
 	<link href="https://www.jessespillane.com/atom.xml" rel="self" />
 	<id>https://www.jessespillane.com/</id>
-	<updated>2020-05-18T05:04:41Z</updated>
+	<updated>2020-05-18T05:08:52Z</updated>
 
 
 	<entry>
@@ -38,7 +38,7 @@
 <li>It’s good to explicitly add the content-type. If you leave it out, you might find some odd formatting.</li>
 <li>You can tell browsers where the atom feed is (if your browser is set up to show that feed icon when a site provides it)</li>
 </ul>
-<p>All md files are expected to be in the root folder. Html files are generated in that folder as well.</p>
+<p>All md files are expected to be in the folder the script is run from. Html files are generated in that folder as well.</p>
 <p>Note: running in windows with git bash seems to be very slow.</p>
 <p>Full script below:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb2-1" data-line-number="1"><span class="co">#!/bin/bash</span></a>

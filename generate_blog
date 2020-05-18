@@ -25,7 +25,7 @@ feed_title="Blog of $author"
 feed_subtitle="An exploration of something or other"
 
 #url (include ending forward slash)
-url="http://www.jessespillane.com/"
+url="https://www.jessespillane.com/"
 
 #file name of the feed for syndication
 feed_file_name="atom.xml"

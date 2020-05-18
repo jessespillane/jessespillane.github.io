@@ -78,7 +78,7 @@
           …so that you:
         </p>
         <ul>
-          <li>Running pandoc doesn’t result in weird characters from the markdown to html conversion. It’s good to explicitly add the content-type. If you leave it out, you might find some odd formatting.
+          <li>It’s good to explicitly add the content-type. If you leave it out, you might find some odd formatting.
           </li>
           <li>You can tell browsers where the atom feed is (if your browser is set up to show that feed icon when a site provides it)
           </li>
@@ -87,7 +87,7 @@
           All md files are expected to be in the root folder. Html files are generated in that folder as well.
         </p>
         <p>
-          I run the script on windows through mingw terminal emulator and host the site on github.
+          Note: running in windows with git bash seems to be very slow.
         </p>
         <p>
           Full script below:
@@ -120,7 +120,7 @@
 <a class="sourceLine" id="cb2-25" data-line-number="25"><span class="va">feed_subtitle=</span><span class="st">"An exploration of something or other"</span></a>
 <a class="sourceLine" id="cb2-26" data-line-number="26"></a>
 <a class="sourceLine" id="cb2-27" data-line-number="27"><span class="co">#url (include ending forward slash)</span></a>
-<a class="sourceLine" id="cb2-28" data-line-number="28"><span class="va">url=</span><span class="st">"http://www.jessespillane.com/"</span></a>
+<a class="sourceLine" id="cb2-28" data-line-number="28"><span class="va">url=</span><span class="st">"https://www.jessespillane.com/"</span></a>
 <a class="sourceLine" id="cb2-29" data-line-number="29"></a>
 <a class="sourceLine" id="cb2-30" data-line-number="30"><span class="co">#file name of the feed for syndication</span></a>
 <a class="sourceLine" id="cb2-31" data-line-number="31"><span class="va">feed_file_name=</span><span class="st">"atom.xml"</span></a>

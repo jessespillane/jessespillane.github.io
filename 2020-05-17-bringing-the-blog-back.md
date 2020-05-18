@@ -39,17 +39,15 @@ You also need to place something like the following in your header:
 
 ...so that you:
 
-- Running pandoc doesn't result in weird characters from the markdown
-  to html conversion. It's good to explicitly add the content-type. If
-  you leave it out, you might find some odd formatting.
+- It's good to explicitly add the content-type. If you leave it out,
+  you might find some odd formatting.
 - You can tell browsers where the atom feed is (if your browser is set
   up to show that feed icon when a site provides it)
 
 All md files are expected to be in the root folder. Html files are
 generated in that folder as well.
 
-I run the script on windows through mingw terminal emulator and host
-the site on github.
+Note: running in windows with git bash seems to be very slow.
 
 Full script below:
 
@@ -81,7 +79,7 @@ feed_title="Blog of $author"
 feed_subtitle="An exploration of something or other"
 
 #url (include ending forward slash)
-url="http://www.jessespillane.com/"
+url="https://www.jessespillane.com/"
 
 #file name of the feed for syndication
 feed_file_name="atom.xml"

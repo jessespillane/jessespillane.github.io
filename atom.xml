@@ -4,16 +4,16 @@
 
 	<title>Blog of Jesse Spillane</title>
 	<subtitle>An exploration of something or other</subtitle>
-	<link href="http://www.jessespillane.com/atom.xml" rel="self" />
-	<id>http://www.jessespillane.com/</id>
-	<updated>2020-05-18T02:14:10Z</updated>
+	<link href="https://www.jessespillane.com/atom.xml" rel="self" />
+	<id>https://www.jessespillane.com/</id>
+	<updated>2020-05-18T05:04:41Z</updated>
 
 
 	<entry>
 		<title>Bringing the Blog Back</title>
-		<link href="http://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html"/>
-		<id>http://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html</id>
+		<link href="https://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html"/>
+		<id>https://www.jessespillane.com/2020-05-17-bringing-the-blog-back.html</id>
 		<updated>2020-05-17T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="bringing-the-blog-back">Bringing the Blog Back</h1>
@@ -35,11 +35,11 @@
 <a class="sourceLine" id="cb1-4" data-line-number="4">    </a></code></pre></div>
 <p>…so that you:</p>
 <ul>
-<li>Running pandoc doesn’t result in weird characters from the markdown to html conversion. It’s good to explicitly add the content-type. If you leave it out, you might find some odd formatting.</li>
+<li>It’s good to explicitly add the content-type. If you leave it out, you might find some odd formatting.</li>
 <li>You can tell browsers where the atom feed is (if your browser is set up to show that feed icon when a site provides it)</li>
 </ul>
 <p>All md files are expected to be in the root folder. Html files are generated in that folder as well.</p>
-<p>I run the script on windows through mingw terminal emulator and host the site on github.</p>
+<p>Note: running in windows with git bash seems to be very slow.</p>
 <p>Full script below:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb2-1" data-line-number="1"><span class="co">#!/bin/bash</span></a>
 <a class="sourceLine" id="cb2-2" data-line-number="2"><span class="co">#This is garbage.  Don&#39;t use it.  Don&#39;t look at it. Like I said, it is garbage.</span></a>
@@ -68,7 +68,7 @@
 <a class="sourceLine" id="cb2-25" data-line-number="25"><span class="va">feed_subtitle=</span><span class="st">&quot;An exploration of something or other&quot;</span></a>
 <a class="sourceLine" id="cb2-26" data-line-number="26"></a>
 <a class="sourceLine" id="cb2-27" data-line-number="27"><span class="co">#url (include ending forward slash)</span></a>
-<a class="sourceLine" id="cb2-28" data-line-number="28"><span class="va">url=</span><span class="st">&quot;http://www.jessespillane.com/&quot;</span></a>
+<a class="sourceLine" id="cb2-28" data-line-number="28"><span class="va">url=</span><span class="st">&quot;https://www.jessespillane.com/&quot;</span></a>
 <a class="sourceLine" id="cb2-29" data-line-number="29"></a>
 <a class="sourceLine" id="cb2-30" data-line-number="30"><span class="co">#file name of the feed for syndication</span></a>
 <a class="sourceLine" id="cb2-31" data-line-number="31"><span class="va">feed_file_name=</span><span class="st">&quot;atom.xml&quot;</span></a>
@@ -250,9 +250,9 @@
 
 	<entry>
 		<title>Echoey Depths Battles Remix</title>
-		<link href="http://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html"/>
-		<id>http://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html</id>
+		<link href="https://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html"/>
+		<id>https://www.jessespillane.com/2020-04-03-echoey-depths-battles-remix.html</id>
 		<updated>2020-04-03T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="echoey-depths-battles-remix">Echoey Depths Battles Remix</h1>
@@ -266,9 +266,9 @@
 
 	<entry>
 		<title>Mobile Songs Vol 2 Released; Dusklight Trio album remastered.</title>
-		<link href="http://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html"/>
-		<id>http://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html</id>
+		<link href="https://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html"/>
+		<id>https://www.jessespillane.com/2019-10-01-mobile-songs-vol2-released-dusklight-trio-remastered.html</id>
 		<updated>2019-10-01T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="mobile-songs-vol-2-released-dusklight-trio-album-remastered.">Mobile Songs Vol 2 Released; Dusklight Trio album remastered.</h1>
@@ -286,9 +286,9 @@
 
 	<entry>
 		<title>New Album: Mobile Zones Vol 1</title>
-		<link href="http://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html"/>
-		<id>http://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html</id>
+		<link href="https://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html"/>
+		<id>https://www.jessespillane.com/2019-03-12-new-album-mobile-songs-vol1.html</id>
 		<updated>2019-03-12T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="new-album-mobile-zones-vol-1">New Album: Mobile Zones Vol 1</h1>
@@ -304,9 +304,9 @@
 
 	<entry>
 		<title>New Album: The Laundry Cycle</title>
-		<link href="http://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html"/>
-		<id>http://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html</id>
+		<link href="https://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html"/>
+		<id>https://www.jessespillane.com/2018-03-06-new-album-the-laundry-cycle.html</id>
 		<updated>2018-03-06T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="new-album-the-laundry-cycle">New Album: The Laundry Cycle</h1>
@@ -322,9 +322,9 @@
 
 	<entry>
 		<title>The "Ocean"</title>
-		<link href="http://www.jessespillane.com/2017-04-20-the-ocean.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2017-04-20-the-ocean.html"/>
-		<id>http://www.jessespillane.com/2017-04-20-the-ocean.html</id>
+		<link href="https://www.jessespillane.com/2017-04-20-the-ocean.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2017-04-20-the-ocean.html"/>
+		<id>https://www.jessespillane.com/2017-04-20-the-ocean.html</id>
 		<updated>2017-04-20T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="the-ocean">The “Ocean”</h1>
@@ -344,9 +344,9 @@
 
 	<entry>
 		<title>Gus Update</title>
-		<link href="http://www.jessespillane.com/2017-04-18-gus-update.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2017-04-18-gus-update.html"/>
-		<id>http://www.jessespillane.com/2017-04-18-gus-update.html</id>
+		<link href="https://www.jessespillane.com/2017-04-18-gus-update.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2017-04-18-gus-update.html"/>
+		<id>https://www.jessespillane.com/2017-04-18-gus-update.html</id>
 		<updated>2017-04-18T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="gus-update">Gus Update</h1>
@@ -362,9 +362,9 @@
 
 	<entry>
 		<title>Kiki</title>
-		<link href="http://www.jessespillane.com/2017-04-13-kiki.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2017-04-13-kiki.html"/>
-		<id>http://www.jessespillane.com/2017-04-13-kiki.html</id>
+		<link href="https://www.jessespillane.com/2017-04-13-kiki.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2017-04-13-kiki.html"/>
+		<id>https://www.jessespillane.com/2017-04-13-kiki.html</id>
 		<updated>2017-04-13T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="kiki">Kiki</h1>
@@ -379,9 +379,9 @@
 
 	<entry>
 		<title>All My Solo Albums are Now cc-by</title>
-		<link href="http://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html"/>
-		<id>http://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html</id>
+		<link href="https://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html"/>
+		<id>https://www.jessespillane.com/2017-03-30-all-my-solo-albums-are-cc-by.html</id>
 		<updated>2017-03-30T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="all-my-solo-albums-are-now-cc-by">All My Solo Albums are Now cc-by</h1>
@@ -399,9 +399,9 @@
 
 	<entry>
 		<title>Gus</title>
-		<link href="http://www.jessespillane.com/2017-03-28-gus.html" />
-		<link rel="alternate" type="text/html" href="http://www.jessespillane.com/2017-03-28-gus.html"/>
-		<id>http://www.jessespillane.com/2017-03-28-gus.html</id>
+		<link href="https://www.jessespillane.com/2017-03-28-gus.html" />
+		<link rel="alternate" type="text/html" href="https://www.jessespillane.com/2017-03-28-gus.html"/>
+		<id>https://www.jessespillane.com/2017-03-28-gus.html</id>
 		<updated>2017-03-28T00:00:00-05:00</updated>
 		<content type="html">
  <![CDATA[<h1 id="gus">Gus</h1>

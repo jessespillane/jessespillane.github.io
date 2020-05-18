@@ -1,3 +1,59 @@
+# Bringing the Blog Back
+
+I decided to bring back my blog. I pulled in old posts from various
+incarnations of this website. I have a garbage bash script that
+generates the blog automatically from md files. There is even an
+[atom.xml](atom.xml) feed file, so that you subscribe in your favorite rss/feed
+reader (if anyone besides me still does that).
+
+I don't know why you'd want to use it (just use jekyll or hugo), but
+you can take a look at it here: [generate_blog](generate_blog). Keep
+in mind, it isn't well-written or effecient, but it does get the job
+done.
+
+To use, you are expected to update some of the variables at the top of
+the script (like the name of the blog, among other things)
+
+The script requires that you have the following installed:
+
+- pandoc - to convert markdown to html
+- tidy - to make html prettier
+
+These are expected to be part of your path environment variable.
+
+It expects there to be a 'header' and 'footer' file (representing your
+html template). Blog entries are have the format
+YYYY-MM-DD-whatever.md.  Normal pages are any other md files.
+
+Your header should have {{$ title}} in the html title element so that
+each page can replace it with the name of the page. 
+
+You also need to place something like the following in your header:
+
+~~~html
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="alternate" type="application/atom+xml" href="http://www.jessespillane.com/atom.xml" />
+    
+~~~
+
+...so that you:
+
+- Running pandoc doesn't result in weird characters from the markdown
+  to html conversion. It's good to explicitly add the content-type. If
+  you leave it out, you might find some odd formatting.
+- You can tell browsers where the atom feed is (if your browser is set
+  up to show that feed icon when a site provides it)
+
+All md files are expected to be in the root folder. Html files are
+generated in that folder as well.
+
+I run the script on windows through mingw terminal emulator and host
+the site on github.
+
+Full script below:
+
+~~~bash
 #!/bin/bash
 #This is garbage.  Don't use it.  Don't look at it. Like I said, it is garbage.
 script_start=`date +%s`
@@ -199,3 +255,5 @@ script_end=`date +%s`
 
 runtime=$((script_end-script_start))
 echo "Script ran in $runtime seconds"
+
+~~~

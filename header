@@ -3,11 +3,12 @@
   <head>
     <title>
        {{$title}}
-    </title>
+    </title>    
+    <meta name="generator" content="A half-assed bash script named generate_blog">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1"> 
     <link href="style.css" rel="stylesheet" >
-<!--    <link rel="alternate" type="application/atom+xml" href="http://www.jessespillane.com/atom.xml" />-->
+    <link rel="alternate" type="application/atom+xml" href="http://www.jessespillane.com/atom.xml" />
   </head>
   <body>
     <div class="wrapper">

@@ -40,8 +40,6 @@ rm -f *.xml
 #keep track of how many blogs we've come accross
 blog_entry_count=0
 
-feed_name="atom.xml"
-
 post_heading="Blog"
 
 # initialize feed
@@ -56,7 +54,7 @@ echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>
 	<link href=\"${url}${feed_file_name}\" rel=\"self\" />
 	<id>$url</id>
 	<updated>$cur_date</updated>
-" > "$feed_name"
+" > "$feed_file_name"
 
 header=$(<header)
 footer=$(<footer)
@@ -169,7 +167,7 @@ for ((i=${#files[@]}-1; i>=0; i--)); do
 		<author>
 			<name>$author</name>
 		</author>
-	</entry>" >> "$feed_name"
+	</entry>" >> "$feed_file_name"
 
         fi
     fi
@@ -191,9 +189,9 @@ echo "Wrote: ${blog_file_name}.html"
 
 
 echo "
-</feed>" >> "$feed_name"
+</feed>" >> "$feed_file_name"
 
-echo "Wrote: $feed_name"
+echo "Wrote: $feed_file_name"
 
 script_end=`date +%s`
 

@@ -47,7 +47,12 @@ You also need to place something like the following in your header:
 All md files are expected to be in the folder the script is run
 from. Html files are generated in that folder as well.
 
-Note: running in windows with git bash seems to be very slow.
+The date for the blog is taken from the file name.  The title of the
+page is the first top level heading (starting with #)
+
+If you write in a file named draft.md, and run ./generate_blog, it
+will move that draft to a blog post in the format
+(date)-(lower_case_encoded_title).md.
 
 Full script below:
 
@@ -94,8 +99,6 @@ rm -f *.xml
 #keep track of how many blogs we've come accross
 blog_entry_count=0
 
-feed_name="atom.xml"
-
 post_heading="Blog"
 
 # initialize feed
@@ -110,7 +113,7 @@ echo "<?xml version=\"1.0\" encoding=\"utf-8\"?>
 	<link href=\"${url}${feed_file_name}\" rel=\"self\" />
 	<id>$url</id>
 	<updated>$cur_date</updated>
-" > "$feed_name"
+" > "$feed_file_name"
 
 header=$(<header)
 footer=$(<footer)
@@ -223,7 +226,7 @@ for ((i=${#files[@]}-1; i>=0; i--)); do
 		<author>
 			<name>$author</name>
 		</author>
-	</entry>" >> "$feed_name"
+	</entry>" >> "$feed_file_name"
 
         fi
     fi
@@ -245,9 +248,9 @@ echo "Wrote: ${blog_file_name}.html"
 
 
 echo "
-</feed>" >> "$feed_name"
+</feed>" >> "$feed_file_name"
 
-echo "Wrote: $feed_name"
+echo "Wrote: $feed_file_name"
 
 script_end=`date +%s`
 

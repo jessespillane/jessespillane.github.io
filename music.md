@@ -2,6 +2,39 @@
 
 ## Discography
 
+### Theme for Another Time - Jesse Spillane
+
+<div class="album-art">
+
+![](images/music/theme-for-another-time-300x300.jpg)
+
+</div>
+<div class="album-description">
+
+Title
+  : Theme for Another Time
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [bandcamp](https://jessespillane.bandcamp.com/album/theme-for-another-time)
+  
+Stream
+  : [pre-save on spotify](https://distrokid.com/hyperfollow/jessespillane/theme-for-another-time)
+
+Date
+  : Sept 2020
+  
+License
+  : [cc-by-nc](https://creativecommons.org/licenses/by-nc/3.0/)
+
+Description
+  : n/a
+
+</div>
+<div style="clear: both;"></div>
+
 ### Mobile Songs Vol 2 - Jesse Spillane
 
 <div class="album-art">

@@ -18,10 +18,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/theme-for-another-time)
+  : [bandcamp](https://jessespillane.bandcamp.com/album/theme-for-another-time), [itunes](https://music.apple.com/us/album/theme-for-another-time/1531079603?uo=4&app=itunes&at=1001lry3&ct=dashboard), [amazon](http://www.amazon.com/gp/product/B08HQK4PYX)
   
 Stream
-  : [pre-save on spotify](https://distrokid.com/hyperfollow/jessespillane/theme-for-another-time)
+  : [spotify](https://open.spotify.com/album/6mVGwGEOlHdB4FueV7ip18), [apple music](https://music.apple.com/us/album/theme-for-another-time/1531079603?uo=4), [amazon](http://www.amazon.com/gp/product/B08HQK4PYX), [deezer](https://www.deezer.com/album/172199612), [napster](https://us.napster.com/artist/jesse-spillane/album/theme-for-another-time), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_mPg515wQ_MmQfW8V23DaGmrP6nHCXSgX0)
 
 Date
   : Sept 2020

@@ -2,6 +2,39 @@
 
 ## Discography
 
+### Diversion
+
+<div class="album-art">
+
+![](images/music/diversion-300x300.jpg)
+
+</div>
+<div class="album-description">
+
+Title
+  : Diversion
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [bandcamp](https://jessespillane.bandcamp.com/album/diversion), [itunes](https://music.apple.com/us/album/diversion/1561516984), [amazon]()
+  
+Stream
+  : [spotify](https://open.spotify.com/album/7xuW2rMBOh4zmXm32xW79a), [apple music](https://music.apple.com/us/album/diversion/1561516984), [amazon](https://www.amazon.com/dp/B091NDG1ZS/), [deezer](https://www.deezer.com/us/album/220136252), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_ks6yfPdfkr69uZ7-fAoXsZ8qbHJwqCEQw)
+
+Date
+  : March 2021
+  
+License
+  : [cc-by](https://creativecommons.org/licenses/by/4.0/)
+
+Description
+  : Made mostly of songs I made for FAWM 2021 (February Album Writing Month)
+
+</div>
+<div style="clear: both;"></div>
+
 ### Theme for Another Time - Jesse Spillane
 
 <div class="album-art">
@@ -21,13 +54,13 @@ Download
   : [bandcamp](https://jessespillane.bandcamp.com/album/theme-for-another-time), [itunes](https://music.apple.com/us/album/theme-for-another-time/1531079603?uo=4&app=itunes&at=1001lry3&ct=dashboard), [amazon](http://www.amazon.com/gp/product/B08HQK4PYX)
   
 Stream
-  : [spotify](https://open.spotify.com/album/6mVGwGEOlHdB4FueV7ip18), [apple music](https://music.apple.com/us/album/theme-for-another-time/1531079603?uo=4), [amazon](http://www.amazon.com/gp/product/B08HQK4PYX), [deezer](https://www.deezer.com/album/172199612), [napster](https://us.napster.com/artist/jesse-spillane/album/theme-for-another-time), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_mPg515wQ_MmQfW8V23DaGmrP6nHCXSgX0)
+  : [spotify](https://open.spotify.com/album/6mVGwGEOlHdB4FueV7ip18), [apple music](https://music.apple.com/us/album/theme-for-another-time/1531079603?uo=4), [amazon](http://www.amazon.com/gp/product/B08HQK4PYX), [deezer](https://www.deezer.com/album/172199612), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_mPg515wQ_MmQfW8V23DaGmrP6nHCXSgX0)
 
 Date
   : Sept 2020
   
 License
-  : [cc-by-nc](https://creativecommons.org/licenses/by-nc/3.0/)
+  : [cc-by](https://creativecommons.org/licenses/by/4.0/)
 
 Description
   : n/a

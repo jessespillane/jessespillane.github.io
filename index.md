@@ -1,10 +1,17 @@
 # Home
 
-**New: 9/9/2020 New album, theme for another time. Download at
- [bandcamp](https://jessespillane.bandcamp.com/album/theme-for-another-time) or stream at [spotify](https://open.spotify.com/album/6mVGwGEOlHdB4FueV7ip18). See the [music](music.html) page for more stores/streaming services**
+## Intro
 
 Hello and welcome to my personal website:
 
 - Listen/download my [music](music.html).
 
+## News
+* 1/14/2022 - Updated this site to reflect that I released an album,
+  Diversion, last year. Stay tuned for more timely updates! 
+* 9/9/2020 - New album, theme for another time. 
+
+
 ![](images/misc/warrig.jpg)
+
+

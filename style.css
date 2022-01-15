@@ -577,17 +577,6 @@ h2
 {
     color: #f56a4c;    
 }
-h3
-{
-    color: #33aa;    
-}
-
-h1::before, h2::before, h3::before, h4::before, h5::before, h6::before,
-h1::after, h2::after, h3::after, h4::after, h5::after, h6::after
-
-{
-    content: "~";
-}
 
 div.icontext
 {
@@ -782,6 +771,7 @@ div.clear
     div.album-art
     {
         float: left;
+        padding-bottom: 15px;
     }
 
 @media screen and (min-width: 770px) {    

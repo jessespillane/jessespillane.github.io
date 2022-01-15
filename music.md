@@ -8,6 +8,8 @@
 
 ![](images/music/diversion-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2021974421/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/diversion">Diversion by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -18,8 +20,8 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/diversion), [itunes](https://music.apple.com/us/album/diversion/1561516984), [amazon]()
-  
+  : [bandcamp](https://jessespillane.bandcamp.com/album/diversion), [itunes](https://music.apple.com/us/album/diversion/1561516984), [amazon](https://www.amazon.com/Diversion-Jesse-Spillane/dp/B091NDG1ZS)
+
 Stream
   : [spotify](https://open.spotify.com/album/7xuW2rMBOh4zmXm32xW79a), [apple music](https://music.apple.com/us/album/diversion/1561516984), [amazon](https://www.amazon.com/dp/B091NDG1ZS/), [deezer](https://www.deezer.com/us/album/220136252), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_ks6yfPdfkr69uZ7-fAoXsZ8qbHJwqCEQw)
 
@@ -40,6 +42,8 @@ Description
 <div class="album-art">
 
 ![](images/music/theme-for-another-time-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1361944553/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/theme-for-another-time">Theme for Another Time by Jesse Spillane</a></iframe>
 
 </div>
 <div class="album-description">
@@ -74,6 +78,8 @@ Description
 
 ![](images/music/mobilesongsvol2cover-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=192608479/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/mobile-songs-vol-2">Mobile Songs Vol 2 by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -84,10 +90,12 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-2), [archive.org](https://archive.org/details/mobilesongsvol2) ( [flac](https://archive.org/compress/mobilesongsvol2/formats=24BIT%20FLAC&file=/mobilesongsvol2.zip), [mp3](https://archive.org/compress/mobilesongsvol2/formats=VBR%20MP3&file=/mobilesongsvol2.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-2), [archive.org](https://archive.org/details/mobilesongsvol2) ( [flac](https://archive.org/compress/mobilesongsvol2/formats=24BIT%20FLAC&file=/mobilesongsvol2.zip), [mp3](https://archive.org/compress/mobilesongsvol2/formats=VBR%20MP3&file=/mobilesongsvol2.zip)), [itunes](https://music.apple.com/us/album/mobile-songs-vol-2/1542688411), [amazon](https://www.amazon.com/dp/B08PCD42HC/)
+
   
 Stream
-  : [m3u](https://archive.org/download/mobilesongsvol2/mobilesongsvol2_vbr.m3u)
+  : [m3u](https://archive.org/download/mobilesongsvol2/mobilesongsvol2_vbr.m3u), [spotify](https://open.spotify.com/album/2A507rI7EZ9qZm27GnaCdM), [apple music](https://music.apple.com/us/album/mobile-songs-vol-2/1542688411), [amazon](https://www.amazon.com/dp/B08PCD42HC/), [deezer](https://www.deezer.com/us/album/189953272), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_mw1SqeCVp27AbYCeol2Amsh6kRf17Ggvs)
+
 
 Date
   : Sept 2019
@@ -108,6 +116,8 @@ Description
 
 ![](images/music/mobilesongsvol1cover-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=445789157/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/mobile-songs-vol-1">Mobile Songs Vol 1 by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -118,10 +128,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-1), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1) ([flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/mobile-songs-vol-1), [archive.org](https://archive.org/details/JesseSpillane-MobileSongsVol1) ([flac](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=FLAC&file=/JesseSpillane-MobileSongsVol1.zip), [mp3](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=VBR%20MP3&file=/JesseSpillane-MobileSongsVol1.zip), [ogg](https://archive.org/compress/JesseSpillane-MobileSongsVol1/formats=OGG%20VORBIS&file=/JesseSpillane-MobileSongsVol1.zip)), [itunes](https://music.apple.com/us/album/mobile-songs-vol-1/1542299876), [amazon](https://www.amazon.com/dp/B08P6WCKSN/)
   
 Stream
-  : [m3u](https://archive.org/download/JesseSpillane-MobileSongsVol1/JesseSpillane-MobileSongsVol1_vbr.m3u)
+  : [m3u](https://archive.org/download/JesseSpillane-MobileSongsVol1/JesseSpillane-MobileSongsVol1_vbr.m3u), [spotify](https://open.spotify.com/album/3vczhHqwAVS7rJgpUUNFoW), [apple music](https://music.apple.com/us/album/mobile-songs-vol-1/1542299876), [amazon](https://www.amazon.com/dp/B08P6WCKSN/), [deezer](https://www.deezer.com/us/album/189226272), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_leyUf_UjaLdVd78yFhmi5Iwg3xud0cRzk)
 
 Date
   : March 2019
@@ -142,6 +152,7 @@ Description
 
 ![](images/music/thelaundrycyclecover-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=701688153/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/the-laundry-cycle">The Laundry Cycle by Jesse Spillane</a></iframe>
 
 </div>
 <div class="album-description">
@@ -153,10 +164,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/the-laundry-cycle), [archive.org](https://archive.org/details/JesseSpillane-TheLaundryCycle) ([flac](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=FLAC&file=/JesseSpillane-TheLaundryCycle.zip), [mp3](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=VBR%20MP3&file=/JesseSpillane-TheLaundryCycle.zip), [ogg](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=OGG%20VORBIS&file=/JesseSpillane-TheLaundryCycle.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-laundry-cycle), [archive.org](https://archive.org/details/JesseSpillane-TheLaundryCycle) ([flac](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=FLAC&file=/JesseSpillane-TheLaundryCycle.zip), [mp3](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=VBR%20MP3&file=/JesseSpillane-TheLaundryCycle.zip), [ogg](https://archive.org/compress/JesseSpillane-TheLaundryCycle/formats=OGG%20VORBIS&file=/JesseSpillane-TheLaundryCycle.zip)), [itunes](https://music.apple.com/us/album/the-laundry-cycle/1542295845), [amazon](https://www.amazon.com/dp/B08P6VL2RW/)
 
 Stream
-  : [m3u](https://archive.org/download/JesseSpillane-TheLaundryCycle/JesseSpillane-TheLaundryCycle_vbr.m3u)
+  : [m3u](https://archive.org/download/JesseSpillane-TheLaundryCycle/JesseSpillane-TheLaundryCycle_vbr.m3u), [spotify](https://open.spotify.com/album/2zapjBjuMjYOLz6kzFsMnm), [apple music](https://music.apple.com/us/album/the-laundry-cycle/1542295845), [amazon](https://www.amazon.com/dp/B08P6VL2RW/), [deezer](https://www.deezer.com/us/album/189220262), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_nX_q31wboEU5fryt4ny3AQbQ_ke1PADR0)
 
 Date
   : March 2018
@@ -178,6 +189,9 @@ Description
 
 ![](images/music/themaddeningparadecover300x300.jpg)
 
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1913176468/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/the-maddening-parade">The Maddening Parade by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -188,10 +202,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/the-maddening-parade), [archive.org](https://archive.org/details/JesseSpillane-TheMaddeningParade) ([flac](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=FLAC&file=/JesseSpillane-TheMaddeningParade.zip), [mp3](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=VBR%20MP3&file=/JesseSpillane-TheMaddeningParade.zip), [ogg](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=OGG%20VORBIS&file=/JesseSpillane-TheMaddeningParade.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-maddening-parade), [archive.org](https://archive.org/details/JesseSpillane-TheMaddeningParade) ([flac](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=FLAC&file=/JesseSpillane-TheMaddeningParade.zip), [mp3](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=VBR%20MP3&file=/JesseSpillane-TheMaddeningParade.zip), [ogg](https://archive.org/compress/JesseSpillane-TheMaddeningParade/formats=OGG%20VORBIS&file=/JesseSpillane-TheMaddeningParade.zip)), [itunes](https://music.apple.com/us/album/the-maddening-parade/1542407529), [amazon](https://www.amazon.com/dp/B08P7XWWZL/)
   
 Stream
-  : [m3u](https://archive.org/download/JesseSpillane-TheMaddeningParade/JesseSpillane-TheMaddeningParade_vbr.m3u)
+  : [m3u](https://archive.org/download/JesseSpillane-TheMaddeningParade/JesseSpillane-TheMaddeningParade_vbr.m3u), [spotify](https://open.spotify.com/album/2Gz1vbOhQWVdkeF56zNWcb), [apple music](https://music.apple.com/us/album/the-maddening-parade/1542407529), [amazon](https://www.amazon.com/dp/B08P7XWWZL/), [deezer](https://www.deezer.com/us/album/189375372), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_kxUkfTGYSiHWYtWIXWX2lqQh_zw3Fqlz8)
   
 Date
   : December 2015
@@ -216,6 +230,8 @@ Description
 
 ![](images/music/skyshipcover-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2505500720/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/sky-ship">Sky Ship by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -226,10 +242,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/sky-ship), [archive.org](https://archive.org/details/SkyShip)([flac](https://archive.org/compress/SkyShip/formats=FLAC&file=/SkyShip.zip), [mp3](https://archive.org/compress/SkyShip/formats=VBR%20MP3&file=/SkyShip.zip), [ogg](https://archive.org/compress/SkyShip/formats=OGG%20VORBIS&file=/SkyShip.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/sky-ship), [archive.org](https://archive.org/details/SkyShip)([flac](https://archive.org/compress/SkyShip/formats=FLAC&file=/SkyShip.zip), [mp3](https://archive.org/compress/SkyShip/formats=VBR%20MP3&file=/SkyShip.zip), [ogg](https://archive.org/compress/SkyShip/formats=OGG%20VORBIS&file=/SkyShip.zip)), [itunes](https://music.apple.com/us/album/sky-ship/1542380205), [amazon](https://www.amazon.com/dp/B08P7TGQB2/)
   
 Stream
-  : [m3u](https://archive.org/download/SkyShip/SkyShip_vbr.m3u)
+  : [m3u](https://archive.org/download/SkyShip/SkyShip_vbr.m3u), [spotify](https://open.spotify.com/album/0uOmhNyI9EUF3vn3kKa5WR), [apple music](https://music.apple.com/us/album/sky-ship/1542380205), [amazon](https://www.amazon.com/dp/B08P7TGQB2/), [deezer](https://www.deezer.com/us/album/189341312), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_mv5VRprvoiYgfN54HPI8RX9CiWLw5zf1o)
   
 Date
   : April 2015
@@ -249,6 +265,8 @@ Description
 <div class="album-art">
 
 ![](images/music/dusklighttrio-bluehoursessions-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1717679961/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://dusklighttrio.bandcamp.com/album/the-blue-hour-sessions">The Blue Hour Sessions by Dusklight Trio</a></iframe>
 
 </div>
 <div class="album-description">
@@ -281,6 +299,8 @@ Description
 
 ![](images/music/eighthwhale-liveathowlers-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3261411621/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://eighthwhale.bandcamp.com/album/live-at-howlers">Live at Howlers by Eighth Whale</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -311,6 +331,8 @@ Description
 <div class="album-art">
 
 ![](images/music/eighthwhale-eighthwhale-cover-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2191927561/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://eighthwhale.bandcamp.com/album/eighth-whale">Eighth Whale by Eighth Whale</a></iframe>
 
 </div>
 <div class="album-description">
@@ -343,6 +365,8 @@ Description
 
 ![](images/music/artofpresentationcover-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=37258741/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/art-of-presentation">Art of Presentation by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -353,10 +377,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/art-of-presentation), [archive.org](https://archive.org/details/JesseSpillane-ArtOfPresentation) ([flac](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=FLAC&file=/JesseSpillane-ArtOfPresentation.zip), [mp3](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=VBR%20MP3&file=/JesseSpillane-ArtOfPresentation.zip), [ogg](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=OGG%20VORBIS&file=/JesseSpillane-ArtOfPresentation.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/art-of-presentation), [archive.org](https://archive.org/details/JesseSpillane-ArtOfPresentation) ([flac](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=FLAC&file=/JesseSpillane-ArtOfPresentation.zip), [mp3](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=VBR%20MP3&file=/JesseSpillane-ArtOfPresentation.zip), [ogg](https://archive.org/compress/JesseSpillane-ArtOfPresentation/formats=OGG%20VORBIS&file=/JesseSpillane-ArtOfPresentation.zip)), [itunes](https://music.apple.com/us/album/art-of-presentation/1543043599), [amazon](https://www.amazon.com/dp/B08PHGFB88)
 
 Stream
-  : [m3u](https://archive.org/download/JesseSpillane-ArtOfPresentation/JesseSpillane-ArtOfPresentation_vbr.m3u)
+  : [m3u](https://archive.org/download/JesseSpillane-ArtOfPresentation/JesseSpillane-ArtOfPresentation_vbr.m3u), [spotify](https://open.spotify.com/album/4xQPFW46O9q14x3HL9l8pm), [apple music](https://music.apple.com/us/album/art-of-presentation/1543043599), [amazon](https://www.amazon.com/dp/B08PHGFB88), [deezer](https://www.deezer.com/us/album/190462352), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_lEoSXwfpruMwnK95x2roHKp_mZFFnvIrE)
 
 Date
   : May 2010
@@ -378,6 +402,8 @@ Description
 <div class="album-art">
 
 ![](images/music/eighthwhale-basementep-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3083176487/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://eighthwhale.bandcamp.com/album/basement-ep">Basement EP by Eighth Whale</a></iframe>
 
 </div>
 <div class="album-description">
@@ -412,6 +438,8 @@ Description
 
 ![](images/music/descent-of-the-goober-monster-300x300.jpg)
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=66366282/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/descent-of-the-goober-monster">Descent of the Goober Monster by Jesse Spillane</a></iframe>
+
 </div>
 <div class="album-description">
 
@@ -422,10 +450,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp](https://jessespillane.bandcamp.com/album/descent-of-the-goober-monster), [archive.org](https://archive.org/details/JesseSpillane-DescentOfTheGooberMonster)([flac](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=FLAC&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [mp3](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=VBR%20MP3&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [ogg](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=OGG%20VORBIS&file=/JesseSpillane-DescentOfTheGooberMonster.zip))
+  : [bandcamp](https://jessespillane.bandcamp.com/album/descent-of-the-goober-monster), [archive.org](https://archive.org/details/JesseSpillane-DescentOfTheGooberMonster)([flac](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=FLAC&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [mp3](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=VBR%20MP3&file=/JesseSpillane-DescentOfTheGooberMonster.zip), [ogg](https://archive.org/compress/JesseSpillane-DescentOfTheGooberMonster/formats=OGG%20VORBIS&file=/JesseSpillane-DescentOfTheGooberMonster.zip)), [itunes](https://music.apple.com/us/album/descent-of-the-goober-monster/1542291834), [amazon](https://www.amazon.com/dp/B08P6ST2BF)
 
 Stream
-  : [m3u](https://archive.org/download/JesseSpillane-DescentOfTheGooberMonster/JesseSpillane-DescentOfTheGooberMonster_vbr.m3u)
+  : [m3u](https://archive.org/download/JesseSpillane-DescentOfTheGooberMonster/JesseSpillane-DescentOfTheGooberMonster_vbr.m3u), [spotify](https://open.spotify.com/album/43nOVspOlLBOtLDnZkUoml), [apple music](https://music.apple.com/us/album/descent-of-the-goober-monster/1542291834), [amazon](https://www.amazon.com/dp/B08P6ST2BF), [deezer](https://www.deezer.com/us/album/189214512), [youtube music](https://music.youtube.com/playlist?list=OLAK5uy_kpr-YBcz67JOvSjvw5MJ41B1Hy0asp8l0)
   
 Date
   : September 2008
@@ -517,6 +545,8 @@ Description
 <div class="album-art">
 
 ![](images/music/trevorrichards-hum-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1583627648/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://trevorrichards.bandcamp.com/album/hum">(((HUM))) by Trevor Richards</a></iframe>
 
 </div>
 <div class="album-description">

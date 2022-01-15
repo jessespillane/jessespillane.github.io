@@ -2,7 +2,7 @@
 
 ## Discography
 
-### Diversion
+### Diversion - Jesse Spillane
 
 <div class="album-art">
 

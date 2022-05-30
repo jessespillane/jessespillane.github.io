@@ -427,8 +427,7 @@ License
   : [cc-by](https://creativecommons.org/licenses/by/4.0/)
 
 Description
-  : microphone-comparison-freight-train-wav sample by mab
-  www.freesound.org/samplesViewSingle.php?id=22953
+  : [microphone-comparison-freight-train-wav sample by mab](www.freesound.org/samplesViewSingle.php?id=22953)
 
 </div>
 <div style="clear: both;"></div>

@@ -2,6 +2,44 @@
 
 ## Discography
 
+### The Big Idea Machine - Jesse Spillane
+
+<div class="album-art">
+
+![](images/music/thebigideamachine-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=768930799/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/the-big-idea-machine">The Big Idea Machine by Jesse Spillane</a></iframe>
+
+</div>
+<div class="album-description">
+
+Title
+  : The Big Idea Machine
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [bandcamp (pre-order)](https://jessespillane.bandcamp.com/album/the-big-idea-machine)<!--, [itunes](), [amazon]()-->
+
+Stream
+  : Coming Soon<!--[spotify](), [apple music](), [amazon](), [deezer](), [youtube music]()-->
+
+Date
+  : June 2022
+  
+License
+  : 
+
+Description
+  : n/a
+
+</div>
+<div style="clear: both;"></div>
+
+
+
+
 ### Diversion - Jesse Spillane
 
 <div class="album-art">

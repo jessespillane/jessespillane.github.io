@@ -20,10 +20,10 @@ Artist
   : Jesse Spillane
   
 Download
-  : [bandcamp (pre-order)](https://jessespillane.bandcamp.com/album/the-big-idea-machine)<!--, [itunes](), [amazon]()-->
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-big-idea-machine)<!--, [itunes](), [amazon]()-->
 
 Stream
-  : Coming Soon<!--[spotify](), [apple music](), [amazon](), [deezer](), [youtube music]()-->
+  : [spotify](https://open.spotify.com/album/7cv6DYCdIX6TdJuxS5m2Gq?si=EsdG6Zu8Q0GYmMGmZGhfxg), [apple music](https://music.apple.com/us/album/the-big-idea-machine/1625958712)<!--, [amazon](), [deezer](), [youtube music]()-->
 
 Date
   : June 2022

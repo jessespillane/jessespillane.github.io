@@ -2,6 +2,42 @@
 
 ## Discography
 
+### The Meeting Place - Jesse Spillane
+
+<div class="album-art">
+
+![](images/music/themeetingplace-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1664860741/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/the-meeting-place">The Meeting Place by Jesse Spillane</a></iframe>
+
+</div>
+<div class="album-description">
+
+Title
+  : The Meeting Place
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [bandcamp](https://jessespillane.bandcamp.com/album/the-meeting-place)
+
+Stream
+  : <!--[spotify](), [apple music](), [amazon](), [deezer](), [youtube music]()-->
+
+Date
+  : June 2023
+  
+License
+  : cc-by
+
+Description
+  : n/a
+
+</div>
+<div style="clear: both;"></div>
+
+
 ### The Big Idea Machine - Jesse Spillane
 
 <div class="album-art">

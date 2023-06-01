@@ -7,6 +7,7 @@ Hello and welcome to my personal website:
 - Listen/download my [music](music.html).
 
 ## News
+* 06/01/2023 - New album: The Meeting Place
 * 06/08/2022 - The Big Idea Machine is now available for download and
   streaming.
 * 05/30/2022 - Added a link for pre-ordering 'The Big Idea Machine' on

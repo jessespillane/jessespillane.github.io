@@ -23,7 +23,7 @@ Download
   : [bandcamp](https://jessespillane.bandcamp.com/album/the-meeting-place)
 
 Stream
-  : <!--[spotify](), [apple music](), [amazon](), [deezer](), [youtube music]()-->
+  : [spotify](https://open.spotify.com/album/1Wv1MLX4klSIrpGamM7uL5), [apple music](https://music.apple.com/us/album/the-meeting-place/1684178697), <!--[amazon](), [deezer](), [youtube music]()-->
 
 Date
   : June 2023

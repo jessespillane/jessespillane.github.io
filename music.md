@@ -2,6 +2,44 @@
 
 ## Discography
 
+
+### Their Earlier Stuff Was Better - Jesse Spillane
+
+<div class="album-art">
+
+![](images/music/theirearlierstuffwasbetter-300x300.jpg)
+
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3821596749/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://jessespillane.bandcamp.com/album/their-earlier-stuff-was-better">Their Earlier Stuff Was Better by Jesse Spillane</a></iframe>
+
+</div>
+<div class="album-description">
+
+Title
+  : Their Earlier Stuff Was Better
+  
+Artist
+  : Jesse Spillane
+  
+Download
+  : [bandcamp](https://jessespillane.bandcamp.com/album/their-earlier-stuff-was-better)
+
+Stream
+  : [spotify (coming soon...maybe)](#), [apple music (coming soon...maybe)](#), <!--[amazon](), [deezer](), [youtube music]()-->
+
+Date
+  : April 2024
+  
+License
+  : cc-by
+
+Description
+  : n/a
+
+</div>
+<div style="clear: both;"></div>
+
+
+
 ### The Meeting Place - Jesse Spillane
 
 <div class="album-art">

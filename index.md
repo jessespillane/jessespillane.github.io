@@ -7,6 +7,7 @@ Hello and welcome to my personal website:
 - Listen/download my [music](music.html).
 
 ## News
+* 04/28/2024 - New album: Their Earlier Stuff Was Better
 * 06/01/2023 - New album: The Meeting Place
 * 06/08/2022 - The Big Idea Machine is now available for download and
   streaming.
